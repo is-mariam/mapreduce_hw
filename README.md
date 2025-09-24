@@ -11,8 +11,8 @@ project_root/
 ├── reducer2.py
 │
 ├── inputs/
-│   ├── file1.txt
-│   └── file2.txt
+│   ├── file1.txt #Removed from repo
+│   └── file2.txt #Removed from repo
 │
 ├── output1/
 │       └── part-00000
@@ -27,9 +27,7 @@ project_root/
 
 ## File contents
 
-Selected pages for assignment:
-
-**Book VII: Harry Potter and Deathly Hallows** 
+Selected pages for assignment **Book VII** 
 
 Pages:
 
